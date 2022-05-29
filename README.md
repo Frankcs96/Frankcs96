@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**Frankcs96/Frankcs96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Francisco, full time software engineer based in Stockholm. I'm currently working at [Springworks](https://www.springworks.se/) as a backend engineer.
 
-Here are some ideas to get you started:
+You can reach me here or at my [email](mailto:fcsuarez96@gmail.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💪 Things I do for fun
+
+- 🏋 Weightlifting
+- ⌨️  Coding
+- 🤼 Contributing to open-source projects
+- 🍳 Cooking (and eating)
+- ✈️  Travel
+- 🛠️ Tweak my Neovim configuration all the time (yes I use neovim btw) [Neovim config](https://github.com/Frankcs96/vim-configuration).
