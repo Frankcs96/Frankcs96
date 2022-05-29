@@ -12,6 +12,6 @@ You can reach me here or at my [email](mailto:fcsuarez96@gmail.com).
 - 🤼 Contributing to open-source projects
 - 🍳 Cooking (and eating)
 - ✈️  Travel
-- 🛠️ Tweak my Neovim configuration all the time (yes I use neovim btw) [Neovim config](https://github.com/Frankcs96/vim-configuration).
+- 🛠️ Tweaking my Neovim configuration all the time (yes I use neovim btw) [Neovim config](https://github.com/Frankcs96/vim-configuration).
 
 ![gopher dancing](./dancing-gopher.gif)
