@@ -15,4 +15,3 @@ You can reach me here or at my [email](mailto:fcsuarez96@gmail.com).
 - 🛠️ Tweaking my Neovim configuration all the time (yes I use neovim btw) [Neovim config](https://github.com/Frankcs96/vim-configuration).
 
 ![gopher dancing](./dancing-gopher.gif)
-![ferris gif](./ferris.gif)
